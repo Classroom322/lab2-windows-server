@@ -1,0 +1,13 @@
+echo "=== OS VERSION ===
+Windows Server 2022 Datacenter
+=== COMPUTER NAME ===
+SRV-TEST
+=== IIS STATUS ===
+IIS (W3SVC): Running
+=== DNS ROLE ===
+DNS Installed: True
+=== INDEX.HTML ===
+Студент: Тестов Тест
+Группа: ТЕСТ-01
+=== HTTP TEST ===
+HTTP Status: 200"
